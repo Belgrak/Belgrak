@@ -1,7 +1,9 @@
+<!--
 <h1>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" alt=""/></h1>
 <h3>My name is Gleb Kargin, I am a SPBU student on Technology Programming</h3>
+--!>
 
-<h2>👾Skills:</h2>
+<h2>Skills:</h2>
 <p>
 <img src="https://img.shields.io/badge/typescript-20214f?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/react-20214f?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
@@ -14,9 +16,11 @@
 <img src="https://img.shields.io/badge/postgres-20214f?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
+<!--
 <h2>💻Codewars Stats: <img src="https://www.codewars.com/users/Belgrak/badges/small"></h3>
 
 <h2>📫 How to reach me: <a href=mailto:glekar03@mail.ru>glekar03@mail.ru</a></h2>
+--!>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Belgrak&count_private=true&show_icons=true&theme=buefy" alt=""></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belgrak&layout=compact&theme=buefy&langs_count=10" alt=""></p>
